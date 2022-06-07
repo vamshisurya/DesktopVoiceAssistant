@@ -7,6 +7,8 @@
 3) Play music
 4) Open youtube
 5) Send an email with content in it.
+6) Open stack overflow
+7) Open watsapp web
 etc..
 
 <h1>Requirements.</h1>
